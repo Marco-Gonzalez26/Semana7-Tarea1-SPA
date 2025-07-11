@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "userId": 101,
+    "title": "Introducción a las Progressive Web Apps (PWAs)",
+    "author": "Marco González",
+    "body": "Las PWAs son aplicaciones web que ofrecen una experiencia similar a las aplicaciones nativas. Utilizan service workers para funcionar sin conexión y pueden instalarse en dispositivos. ¡Son el futuro del desarrollo web!"
+  },
+  {
+    "id": 2,
+    "userId": 102,
+    "title": "Ventajas de las Single Page Applications (SPAs)",
+    "author": "Emily Chiriboga",
+    "body": "Las SPAs cargan una sola vez y actualizan dinámicamente el contenido, mejorando la velocidad y la experiencia del usuario. Frameworks como React, Angular y Vue.js son ideales para desarrollarlas."
+  },
+  {
+    "id": 3,
+    "userId": 103,
+    "title": "Diferencias entre PWAs y SPAs",
+    "author": "Doris López",
+    "body": "Mientras que las SPAs se centran en la carga dinámica sin recargar la página, las PWAs añaden capacidades offline y notificaciones push. ¡Puedes incluso combinar ambas tecnologías para un resultado increíble!"
+  },
+  {
+    "id": 4,
+    "userId": 101,
+    "title": "Cómo optimizar tu PWA para SEO",
+    "author": "Marco González",
+    "body": "Aunque las PWAs son potentes, su SEO puede ser un reto. Usa renderizado del lado del servidor (SSR) o prerenderizado para que los motores de búsqueda indexen tu contenido correctamente."
+  },
+  {
+    "id": 5,
+    "userId": 102,
+    "title": "Ejemplo práctico: Creando una SPA con React",
+    "author": "Emily Chiriboga",
+    "body": "En este post, te muestro paso a paso cómo construir una SPA básica con React, usando React Router para la navegación y hooks para manejar el estado."
+  },
+  {
+    "id": 6,
+    "userId": 103,
+    "title": "Implementando Service Workers en tu PWA",
+    "author": "Doris López",
+    "body": "Los service workers son clave para las PWAs. Aprende cómo registrarlos en tu app y cómo cachear recursos para que funcione sin conexión."
+  }
+]
